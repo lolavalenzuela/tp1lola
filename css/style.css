@@ -1,0 +1,31 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+body, 
+h2,
+h3
+ {
+    font-family: "Raleway" , sans-serif;
+}
+
+#semi {font-weight: 600;}
+
+h1
+ {
+    text-align: center;
+    text-decoration:underline;
+    font-family: "Beas Neue", sans-serif;}
+
+body
+{
+    background-color:rgb(202, 207, 243);
+    color: rgb(83, 32, 32);
+}
+
+h5,
+h6
+{
+    font-family: "Raleway" , sans-serif; 
+}
